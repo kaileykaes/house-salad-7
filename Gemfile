@@ -61,7 +61,6 @@ end
 group :development do
   # Use console on exceptions pages [https://github.com/rails/web-console]
   gem "web-console"
-  gem "faraday"
   # Add speed badges [https://github.com/MiniProfiler/rack-mini-profiler]
   # gem "rack-mini-profiler"
 
@@ -69,3 +68,4 @@ group :development do
   # gem "spring"
 end
 
+gem "faraday"
